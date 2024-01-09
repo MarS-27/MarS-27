@@ -42,9 +42,11 @@
   </a> 
 </p>
 <h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mars-27&show_icons=true&locale=en&layout=compact" alt="mars-27" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mars-27&show_icons=true&locale=en" alt="mars-27" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mars-27&" alt="mars-27" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mars-27&show_icons=true&locale=en&layout=compact" alt="mars-27" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mars-27&show_icons=true&locale=en" alt="mars-27" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mars-27&" alt="mars-27" />
+</div>
 
 
 
