@@ -10,12 +10,12 @@
 </div>
 <h3 align="left">Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mars-27&show_icons=true&locale=en&layout=compact" alt="mars-27" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mars-27&show_icons=true&locale=en" alt="mars-27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mars-27&show_icons=true&locale=en&layout=compact&theme=calm" alt="mars-27" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mars-27&show_icons=true&locale=en&theme=calm" alt="mars-27" />
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mars-27&" alt="mars-27" />
-</div>
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarS-27&theme=calm" alt="mars-27" />
+</div> -->
 
 
 
