@@ -10,20 +10,15 @@
 </div>
 <h3 align="left">Some my projects:</h3>
 <div align="left">
-  <h5>Web application for traking Nova Poshta TTN and searching departments.</h5>
-  <a href="https://mars-27.github.io/np-app-test/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Traking%20App-white?style=flat&color=25c2a0" alt="Traking App"/></a>
-  <a href="https://github.com/MarS-27/np-app-test" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-?style=flat&logo=github&logoColor=white&labelColor=0d253f&color=0d253f">
-</a>
+   <h5>➡️ Web application for traking Nova Poshta TTN and searching departments.</h5>
+  <a href="https://mars-27.github.io/np-app-test/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Traking%20App-white?    style=flat&color=25c2a0" alt="Traking App"/></a>
+  <a href="https://github.com/MarS-27/np-app-test" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Repo-white?style=flat&logo=github&logoColor=white&color=373f51"></a>
 </div>
 <h3 align="left">Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mars-27&show_icons=true&locale=en&layout=compact&theme=calm" alt="mars-27" />
   <img src="https://github-readme-stats.vercel.app/api?username=mars-27&show_icons=true&locale=en&theme=calm" alt="mars-27" />
 </div>
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarS-27&theme=calm" alt="mars-27" />
-</div> -->
 
 
 
