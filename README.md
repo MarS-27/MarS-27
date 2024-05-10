@@ -9,6 +9,13 @@ A diligent and detail-oriented Front-end Developer from Ukraine
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript0" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/) [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>](https://redux.js.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>](https://sass-lang.com) [<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>](https://tailwindcss.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>](https://nestjs.com/) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
 
 ### Some my projects:
+#### ➡️ Web application for managing a personal  recipes book.
+
+Front-End created using: TypeScript / Next.js / Tanstack Query / TailwindCSS / React Hook Form / Next Auth. 
+
+Back-End created using: TypeScript / Nest.js / PostgreSQL / TypeORM / Swagger / Cloudinary.
+
+[![Recipes Book](https://img.shields.io/badge/Recipes%20Book-white?style=for-the-badge&color=25c2a0)](https://recipes-book-frontend.vercel.app/) [![FrontEnd Repo](https://img.shields.io/badge/FrontEnd%20Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/recipes-book-frontend) [![BackEnd Repo](https://img.shields.io/badge/BackEnd%20Repo-white?style=for-the-badge&logo=github&logoColor=white&color=242e34)](https://github.com/MarS-27/recipes-book-backend)
 #### ➡️ Digital agency website. 
 Сreated using: Vue.js.
 
@@ -16,7 +23,7 @@ A diligent and detail-oriented Front-end Developer from Ukraine
 #### ➡️ Commercial full-stack project for the customer's accounting company. 
 Design provided by client. Developed according to the client's requirements. Repositories are private in the client profile.
 
-Front-End created using: TypeScript / Next.js / ReactQuery / TailwindCSS / React Hook Form / Next Auth.
+Front-End created using: TypeScript / Next.js / Tanstack Query / TailwindCSS / React Hook Form / Next Auth.
 
 Back-End created using: TypeScript / Nest.js / MongoDB / Mongoose / Mailgun.
 
