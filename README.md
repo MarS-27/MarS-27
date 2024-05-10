@@ -28,6 +28,12 @@ Front-End created using: TypeScript / Next.js / Tanstack Query / TailwindCSS / R
 Back-End created using: TypeScript / Nest.js / MongoDB / Mongoose / Mailgun.
 
 [![TheTaxCO Portal](https://img.shields.io/badge/TheTaxCO%20Portal-white?style=for-the-badge&color=25c2a0)](https://portal.thetaxco.ca/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/portal-thetaxco)
+#### ➡️ A photographer's portfolio website from the Fiverr freelance exchange. 
+Developed according to the client's requirements. The repository is private in the client's profile.
+
+Сreated using: TypeScript / Next.js / TailwindCSS / i18next / Swiper / Gsap.
+
+[![Yasausya Photo](https://img.shields.io/badge/Yasausya%20Photo-white?style=for-the-badge&color=25c2a0)](https://yasausya.com/) 
 #### ➡️ Iq quiz web application. 
 Сreated using: Vue.js.
 
