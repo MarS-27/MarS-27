@@ -21,6 +21,14 @@ A diligent and detail-oriented Front-end Developer from Ukraine
 Сreated using: TypeScript / Next.js / Styled Components / React Hook Form.
 
 [![Dananz Interior](https://img.shields.io/badge/Dananz%20Interior-white?style=for-the-badge&color=25c2a0)](https://dananz-interior.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/dananz-interior)
+#### ➡️ Guest house website. 
+Сreated using: JavaScript / HTML5 / CSS / Webpack / Swiper.
+
+[![Lake House](https://img.shields.io/badge/Lake%20House-white?style=for-the-badge&color=25c2a0)](https://mars-27.github.io/lake-house/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/lake-house)
+#### ➡️  Web application for weather tracking.
+Сreated using: JavaScript / React / Redux Toolkit / TailwindCSS / OpenWeather Api / React Router Dom / Leaflet.
+
+[![Weather In](https://img.shields.io/badge/Weather%20In-white?style=for-the-badge&color=25c2a0)](https://mars-27.github.io/weather-in/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/weather-in)
 
 ### Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mars-27&show_icons=true&locale=en&layout=compact&theme=calm)
