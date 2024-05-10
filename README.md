@@ -13,8 +13,20 @@ A diligent and detail-oriented Front-end Developer from Ukraine
 Сreated using: Vue.js.
 
 [![A-Studio](https://img.shields.io/badge/A%20Studio-white?style=for-the-badge&color=25c2a0)](https://a-studio-peach.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/A-Studio)
+#### ➡️ Commercial full-stack project for the customer's accounting company. 
+Design provided by client. Developed according to the client's requirements. Repositories are private in the client profile.
+
+Front-End created using: TypeScript / Next.js / ReactQuery / TailwindCSS / React Hook Form / Next Auth.
+
+Back-End created using: TypeScript / Nest.js / MongoDB / Mongoose / Mailgun.
+
+[![TheTaxCO Portal](https://img.shields.io/badge/TheTaxCO%20Portal-white?style=for-the-badge&color=25c2a0)](https://portal.thetaxco.ca/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/portal-thetaxco)
+#### ➡️ Iq quiz web application. 
+Сreated using: Vue.js.
+
+[![IqQuiz](https://img.shields.io/badge/IqQuiz-white?style=for-the-badge&color=25c2a0)](https://iq-quiz-test.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/IqQuiz-test)
 #### ➡️ Web application for traking Nova Poshta TTN and searching departments.
-Сreated using: TypeScript / React / Redux Toolkit / Material UI / NP Api / i18next / React Router Dom / React Hook Form.
+Сreated using: TypeScript / React / Redux Toolkit / Material UI / NP Api / i18next / React Router / React Hook Form.
 
 [![Traking App](https://img.shields.io/badge/Traking%20App-white?style=for-the-badge&color=25c2a0)](https://mars-27.github.io/np-app-test/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/np-app-test)
 #### ➡️ Interior studio website. 
@@ -26,7 +38,7 @@ A diligent and detail-oriented Front-end Developer from Ukraine
 
 [![Lake House](https://img.shields.io/badge/Lake%20House-white?style=for-the-badge&color=25c2a0)](https://mars-27.github.io/lake-house/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/lake-house)
 #### ➡️  Web application for weather tracking.
-Сreated using: JavaScript / React / Redux Toolkit / TailwindCSS / OpenWeather Api / React Router Dom / Leaflet.
+Сreated using: JavaScript / React / Redux Toolkit / TailwindCSS / OpenWeather Api / React Router / Leaflet.
 
 [![Weather In](https://img.shields.io/badge/Weather%20In-white?style=for-the-badge&color=25c2a0)](https://mars-27.github.io/weather-in/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/weather-in)
 
