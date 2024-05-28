@@ -37,7 +37,7 @@ Developed according to the client's requirements. The repository is private in t
 #### ➡️ Web application for searching movies.
 Сreated using: TypeScript / React / RTK Query / Material UI / TMDB Api / React Router / React Hook Form.
 
-[![Traking App](https://img.shields.io/badge/Movies%20App-white?style=for-the-badge&color=25c2a0)](https://github.com/MarS-27/movies-app) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://movies-app-chi-three.vercel.app/)
+[![Traking App](https://img.shields.io/badge/Movies%20App-white?style=for-the-badge&color=25c2a0)](https://movies-app-chi-three.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-white?style=for-the-badge&logo=github&logoColor=white&color=373f51)](https://github.com/MarS-27/movies-app)
 #### ➡️ Iq quiz web application. 
 Сreated using: Vue.js.
 
